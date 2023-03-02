@@ -37,7 +37,7 @@ public class PaisDaoImpl implements PaisDAO {
 
 				Country country = new Country();
 				country.setId(rs.getLong("id"));
-				country.setShortName(rs.getString("short_nombre"));
+				country.setShortName(rs.getString("abreviatura"));
 				country.setName(rs.getString("nombre"));
 				return country;
 

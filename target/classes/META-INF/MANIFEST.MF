@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 13
+Implementation-Title: XCasitaEscuela
+Implementation-Version: 0.1-casa
+Created-By: Maven Integration for Eclipse
+
